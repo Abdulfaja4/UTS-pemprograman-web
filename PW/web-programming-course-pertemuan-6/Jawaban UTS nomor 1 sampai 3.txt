@@ -1,0 +1,14 @@
+Nama : Abdul Fajar Nugroho
+Kelas : IF22C
+Nim : 22416255201088
+
+1. Sebuah framework pada pengembangan aplikasi dapat diibrratkan sebagai kerangka kerja atau struktur yang sudah ada, yang membantu para pengembang dalam membangun aplikasi dengan lebih cepat dan terstruktur. Ini seperti menyediakan pondasi dan tembok rumah yang sudah ada, sehingga kita tidak perlu memulai dari nol setiap kali ingin membuat rumah baru. Sebagai contoh, bayangkan Anda ingin membuat sebuah situs web. Tanpa framework, Anda harus membuat semua hal dari awal, seperti mengelola database, menangani permintaan dari pengguna dan mendesain tampilan situs. Ini seperti membangun rumah dari batu bata tanpa adanya pondasi yang sudah ada. Namun, jika Anda menggunakan framework sebagian besar pondasi dan struktur sudah tersedia. Anda tinggal menyesuaikannya dengan kebutuhan spesifik Anda. Dengan demikian, waktu yang Anda perlukan untuk membangun aplikasi dapat jauh lebih singkat, karena banyak pekerjaan berulang yang sudah dilakukan untuk Anda. Jadi, secara umum, framework membantu membuat pengembangan aplikasi lebih efisien dan terstruktur, serta mengurangi beban kerja yang harus dilakukan dari awal.
+
+2. Intansi Perusahan
+
+3. -Abdul Fajar Nugroho (Data Base)
+   -Ardi Azzurri Nur Rahmat (laporan)
+   -Sinta Dwi Sagita (web)
+
+Masalah dalam final projek saya adalah clain saya meminta membuat website jual beli komputer, dan jasa service komputer
+solusi = clain agar pelanggan bisa membeli computer secara online melalui website tersebut dan bisa membuat jadwal untuk service komputer  
